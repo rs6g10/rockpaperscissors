@@ -9,7 +9,7 @@ Don't know the game? http://en.wikipedia.org/wiki/Rock-paper-scissors
 - Ability to play against the computer
 - Ability to simulate a game (Computer vs Computer)
 - Ability to restart the game
-- Computer generated plays are random
+- Computer generated plays are random.
 
 ## Tooling
 
