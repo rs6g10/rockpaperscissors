@@ -11,7 +11,7 @@ Don't know the game? http://en.wikipedia.org/wiki/Rock-paper-scissors
 - Ability to restart the game
 - Computer generated plays are random
 
-### Tooling
+## Tooling
 
 The tooling we provide is the following:
 
@@ -21,7 +21,7 @@ The tooling we provide is the following:
 - `eslint` to make sure your code meets the standards
 - `karma`, `mocha` and `chai` to help you write and run your unit tests in various browsers
 
-### Install dependencies
+## Install dependencies
 
 To start developing, fork and clone the project first, then make sure you have Node.js *4.x* or higher.
 
@@ -37,7 +37,7 @@ $ yarn install
 
 from the project folder.
 
-### Helpful commands
+## Helpful commands
 
 Following CLI commands available:
 
